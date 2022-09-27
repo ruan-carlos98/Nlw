@@ -8,7 +8,7 @@ RocketSeat's Next Level Week Event Completed Project
 
 [Click here to access](https://ruan-carlos98.github.io/Nlw)
 
-## Tecnologias
+## Software used
 
 - HTML
 - CSS
